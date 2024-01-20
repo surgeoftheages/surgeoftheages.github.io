@@ -1,1 +1,1 @@
-﻿var textForPages = ["","","","","","","","","","",""];
+﻿var textForPages = ["renaissance_sas","renaissance_sas","renaissance_sas","renaissance_sas","renaissance_sas","renaissance_sas","renaissance_sas","renaissance_sas","Sri Aurobindo, CWSA, 31: 303                                      renaissance_sas","renaissance_sas","renaissance_sas","renaissance_sas                                                             For more such quickreads, check out:                          https://ebook.aurosociety.org/Renaissance/"];
